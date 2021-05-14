@@ -22,8 +22,7 @@ observer:
     url: amqps://vbnrvotk:xjLtvrzEof49pyTPkpOwCJcuHKBZkj6T@whale.rmq.cloudamqp.com/vbnrvotk
 
 postgres:
-  url: postgres://ldiasxzttghrpv:b91f1e330410e9799ea4c8a899c803fb2c38c73b315979284402a1625e6ab280@ec2-54-74-14-109.eu-west-1.compute.amazonaws.com:5432/dd41udaur5lv4u?sslmode=disable
-  log: false
+  url: postgres://ldiasxzttghrpv:b91f1e330410e9799ea4c8a899c803fb2c38c73b315979284402a1625e6ab280@ec2-54-74-14-109.eu-west-1.compute.amazonaws.com:5432/dd41udaur5lv4u
 
 consumer:
   service: ""
